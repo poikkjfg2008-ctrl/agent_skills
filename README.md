@@ -142,6 +142,11 @@ Each skill contains:
 - `scripts/` - Helper scripts for automation (optional)
 - `references/` - Supporting documentation (optional)
 
+
+## Extended Documentation (中文)
+
+- [Skill Creator + Ollama 本地模型使用详解](docs_skill_creator_ollama.md)
+
 ## License
 
 MIT
